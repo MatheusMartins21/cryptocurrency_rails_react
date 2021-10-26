@@ -14,6 +14,5 @@ Execute os comandos abaixo dentro da pasta raiz para instalar as dependências d
 ### Webpack
 Execute o comando abaixo para realizar a instalação do Webpack
 
-<code>rails webpacker:install</code>
+<code>rails webpacker:install:react</code>
 
-* Ao executar a instalação, pode haver um conflito com o Webpack, caso pergunte para subscrever, marque "n" para as duas opções.
