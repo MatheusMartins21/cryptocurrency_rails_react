@@ -1,4 +1,4 @@
-CREATE DATABASE IF NOT EXISTS test;
+CREATE DATABASE IF NOT EXISTS cryptocurrency;
 
 SET character_set_client = utf8;
 SET character_set_connection = utf8;
