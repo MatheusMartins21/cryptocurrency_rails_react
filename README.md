@@ -16,7 +16,7 @@ Execute o comando abaixo para realizar a instalação do Webpack
 
 <code>rails webpacker:install:react</code>
 
-## Projeto
+### Projeto
 Execute <code>rails db:migrate</code> para criar as tabelas do projeto.
 Execute <code>rails db:seed</code> para criar os registros das tabelas.
 
