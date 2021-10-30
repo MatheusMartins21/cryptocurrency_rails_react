@@ -8,12 +8,12 @@ default: &default
 
 development:
   <<: *default
-  database: test
+  database: cryptocurrency
 
 test:
   <<: *default
-  database: test
+  database: cryptocurrency
 
 production:
   <<: *default
-  database: test
+  database: cryptocurrency
